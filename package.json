@@ -1,0 +1,17 @@
+{
+  "name": "sb-2048-issues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/app-configuration": "^1.2.0-beta.1",
+    "@azure/service-bus": "^7.0.5",
+    "dotenv": "^8.2.0"
+  }
+}
